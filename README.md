@@ -1,6 +1,6 @@
 - 👋 Hi, I’m thao ho
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning deeply React technologies and golang
+- 🌱 I’m currently learning deeply React technologies
 - 📫 Reach me through skype - live:thaoho21294
 
 <!---
